@@ -1,0 +1,13 @@
+Hi {FNAME} {LNAME} :
+<br>
+<p>Welcome to AshokIT Family,</p>
+<p>Your registration is almost completed,</p>
+<p>Please use below details to unlock your account.</p>
+<br>
+<h4>Temporary password : <span style='background-color:yellow;font-size:30px;font-weight:900px'>{TEMP_PSW}</span></h4> 
+<br/>
+<a href='http://localhost:4255/unlockUser?email={USER_EMAIL}'>
+Click Here to Unlock your Account</a>
+<br>
+<h4>Thanks & Regards,</h4>
+<h3>AshokIT Family</h3>
